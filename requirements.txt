@@ -1,4 +1,5 @@
+numpy==2.0.2
 packaging==26.0
+pdf2image==1.17.0
 pillow==11.3.0
-PyMuPDF==1.26.5
 pytesseract==0.3.13

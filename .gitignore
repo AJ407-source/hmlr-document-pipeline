@@ -1,0 +1,52 @@
+# ============================
+# Python
+# ============================
+
+# Virtual environment — everyone creates their own from requirements.txt
+venv/
+
+# Compiled Python files — auto-generated, machine-specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution and packaging files
+*.egg-info/
+dist/
+build/
+
+# ============================
+# Jupyter Notebooks
+# ============================
+
+# Auto-saved checkpoint files
+.ipynb_checkpoints/
+
+# ============================
+# Operating System Files
+# ============================
+
+# macOS folder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# ============================
+# IDE / Editor Settings
+# ============================
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# ============================
+# Environment and Secrets
+# ============================
+
+# Environment variable files (may contain API keys or passwords)
+.env
+
+
